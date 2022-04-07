@@ -1,0 +1,1 @@
+module github.com/yihanzhen/no-release-package
